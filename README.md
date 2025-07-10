@@ -1,10 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Paul
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Hi, Welcome tp my Github
 ============================================================================================================================
 
 System/network engineer
 -----------------------
 
-i've been learning Information Technology for 3 years now and still learning.
+Skills and motivated in learning. 
 
 * 🌍  I'm based in Belgium
 
